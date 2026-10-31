@@ -1,0 +1,2 @@
+the login page url is https://www.shoppersstack.com/user-signin
+Promise { 'https://www.shoppersstack.com/user-signin' }
